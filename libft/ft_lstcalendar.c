@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_lstcalendar.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: bdehais <bdehais@student.42mulhouse.fr>    +#+  +:+       +#+        */
+/*   By: bguyot <bguyot@student.42mulhouse.fr>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/03/07 10:49:48 by bdehais           #+#    #+#             */
-/*   Updated: 2022/03/07 10:54:58 by bdehais          ###   ########.fr       */
+/*   Created: 2022/03/07 10:49:48 by bguyot           #+#    #+#             */
+/*   Updated: 2022/03/07 10:54:58 by bguyot          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

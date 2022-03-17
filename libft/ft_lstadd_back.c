@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_lstadd_back_bonus.c                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: bdehais <bdehais@student.42mulhouse.fr>    +#+  +:+       +#+        */
+/*   By: bguyot <bguyot@student.42mulhouse.fr>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/02/23 10:55:24 by bdehais           #+#    #+#             */
-/*   Updated: 2022/03/03 08:41:10 by bdehais          ###   ########.fr       */
+/*   Created: 2022/02/23 10:55:24 by bguyot           #+#    #+#             */
+/*   Updated: 2022/03/03 08:41:10 by bguyot          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

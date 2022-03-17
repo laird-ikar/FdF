@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_lstadd_front.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: bdehais <bdehais@student.42mulhouse.fr>    +#+  +:+       +#+        */
+/*   By: bguyot <bguyot@student.42mulhouse.fr>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/02/23 10:55:17 by bdehais           #+#    #+#             */
-/*   Updated: 2022/03/03 08:41:34 by bdehais          ###   ########.fr       */
+/*   Created: 2022/02/23 10:55:17 by bguyot            #+#    #+#             */
+/*   Updated: 2022/03/17 16:24:26 by bguyot           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

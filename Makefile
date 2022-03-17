@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: bdehais <bdehais@student.42mulhouse.fr>    +#+  +:+       +#+         #
+#    By: bguyot <bguyot@student.42mulhouse.fr>      +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2022/02/21 17:33:35 by bdehais           #+#    #+#              #
-#    Updated: 2022/03/16 16:15:29 by bdehais          ###   ########.fr        #
+#    Created: 2022/03/17 16:20:28 by bguyot            #+#    #+#              #
+#    Updated: 2022/03/17 16:24:59 by bguyot           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 

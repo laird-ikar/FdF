@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_printf_upper_xint.c                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: bdehais <bdehais@student.42mulhouse.fr>    +#+  +:+       +#+        */
+/*   By: bguyot <bguyot@student.42mulhouse.fr>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/03/03 08:39:24 by bdehais           #+#    #+#             */
-/*   Updated: 2022/03/14 16:33:27 by bdehais          ###   ########.fr       */
+/*   Created: 2022/03/03 08:39:24 by bguyot            #+#    #+#             */
+/*   Updated: 2022/03/17 16:24:07 by bguyot           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

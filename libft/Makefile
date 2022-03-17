@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: bdehais <bdehais@student.42mulhouse.fr>    +#+  +:+       +#+         #
+#    By: bguyot <bguyot@student.42mulhouse.fr>      +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2022/03/03 08:35:04 by bdehais           #+#    #+#              #
-#    Updated: 2022/03/14 16:38:30 by bdehais          ###   ########.fr        #
+#    Created: 2022/03/03 08:35:04 by bguyot            #+#    #+#              #
+#    Updated: 2022/03/17 16:24:54 by bguyot           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -25,7 +25,7 @@ ft_lstclear.c ft_lstdelone.c ft_lstadd_back.c ft_lstadd_front.c ft_utoa.c		\
 ft_ultoa_base.c ft_utoa_base.c ft_strcontain.c ft_strcmp.c ft_tabmin.c			\
 ft_tabmax.c ft_abs.c ft_lstcalendar.c ft_memcat.c ft_sort_int_tab.c				\
 ft_lstmaxint.c ft_lstminint.c ft_sqrt.c ft_is_nodoubl.c ft_tab_size.c			\
-get_next_line.c ft_printf.c ft_strmapi.c ft_itoa.c ft_split.c ft_strtrim.c		
+get_next_line.c ft_printf.c ft_strmapi.c ft_itoa.c ft_split.c ft_strtrim.c
 OBJS 		= ${SRCS:.c=.o}
 CC			= gcc
 RM			= rm -f
